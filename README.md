@@ -1,6 +1,6 @@
 ## Portfolio Website 🚀
 
-Here are the source code of my Portfolio made by [**Jacob Martinez**](https://github.com/cobiwave](https://github.com/cobiwave)
+Here are the source code of my Portfolio made by [**Jacob Martinez**](https://github.com/cobiwave](https://github.com/cobiwave))
 
 Technologies used 🛠️
 - [Parcel](https://parceljs.org/) - Bundler
